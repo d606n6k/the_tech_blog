@@ -1,6 +1,7 @@
 // import express and models
 const router = require("express").Router();
 // model import
+// ***REWRITE THESE***
 const { User, Project } = require("../models");
 
 // we will to get all projects from db
@@ -17,5 +18,8 @@ router.get("/", async (req, res) => {
   }
 });
 // we will need to 'each' through every project
+
+// user login
+// user sign up
 
 module.exports = router;
