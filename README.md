@@ -19,3 +19,43 @@
 </p>
 
 # The Tech Blog
+
+## Description
+
+This is a simple tech blog created using MVC concepts along with OOP concepts. This is still a WIP..
+
+## Table of Contents
+
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Usage
+
+Visit the live app at https://the-tech-blog-williamlucht.herokuapp.com/
+
+## License
+
+License: MIT
+
+## Built With Node.js And These Node Packages
+
+- [MySQL](https://www.mysql.com/)
+- [Express.js](https://expressjs.com/)
+- [Sequelize](https://www.npmjs.com/package/sequelize)
+- [Node.js](https://nodejs.org/en/)
+- [npmjs](https://docs.npmjs.com/)
+
+## How to Contribute
+
+If you would like to contribute to this project, please fork the project as needed.
+
+## Questions
+
+Have any questions for the author? Contact this author via [Email](mailto:aaronlucht@gmail.com)
+
+Check out the author's [Github](https://github.com/d606n6k)
+
+## Credits
+
+Created by [d606n6k](https://github.com/d606n6k)
