@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/badge/license-MIT-blue" />
 </p>
 
+![The Tech Blog](./public/images/screenshot.png)
+
 # The Tech Blog
 
 ## Description
